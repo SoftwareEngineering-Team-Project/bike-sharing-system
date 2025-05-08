@@ -1,0 +1,11 @@
+use case: 로그인
+requirement: 관리자 or 회원이 ID,PW를 입력하면 해당 계정으로 사이트에 접속
+
+use case: 로그아웃
+requirement: 사용자가 로그아웃 버튼을 누를 경우 해당 계정의 사이트 접속 종료
+
+use case: 회원 가입
+requriement: 비회원이 본인의 정보(ID, PW, 전화번호, 결제 수단, 선호 자전거 종류)를 입력할 경우 회원 권한을 가진 계정 생성
+
+use case: 회원 탈퇴
+requirement: 회원이 회원 탈퇴를 원할 경우, 해당 회원의 정보를 모두 삭제 후 계정 탈퇴 처리
